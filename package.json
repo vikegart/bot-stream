@@ -1,0 +1,22 @@
+{
+  "name": "bot-for-stream",
+  "version": "1.0.0",
+  "description": "bot for vk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikegart/bot-stream.git"
+  },
+  "author": "Vikentii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikegart/bot-stream/issues"
+  },
+  "homepage": "https://github.com/vikegart/bot-stream#readme",
+  "dependencies": {
+    "node-vk-bot-api": "^3.3.4"
+  }
+}
