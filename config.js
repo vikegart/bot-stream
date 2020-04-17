@@ -1,4 +1,4 @@
 module.exports = {
     botName: 'бот',
-    IS_DEBUG: true,
+    IS_DEBUG: false,
 }
